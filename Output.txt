@@ -1,0 +1,16 @@
+The Following analytics we recorded during the training of the neural network model: 
+
+Weight Matrix: 
+[[-0.33574817  0.444444    0.36340836 -0.10122696 -0.4685882 ]
+ [-0.26800492 -0.89727443 -0.09887349  0.4172854  -0.78199935]
+ [ 0.06612864  1.6700884  -0.3041712  -1.201139   -0.573486  ]
+ [ 1.0043818   1.1843257  -1.1335299  -1.2096103   0.2695436 ]]
+
+Biases: 
+[-0.31532723  0.17608076  1.3430378   0.21858722  0.13765518]
+
+Testing Accuracy: 
+96.66666388511658
+
+Number of Epochs take to converger on average: 
+Approximately 95
